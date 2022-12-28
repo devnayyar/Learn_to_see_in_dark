@@ -10,9 +10,6 @@ This is a Tensorflow implementation of Learning to See in the Dark in CVPR 2018,
 This code includes the default model for training and testing on the See-in-the-Dark (SID) dataset. 
 
 
-## Demo Video
-https://youtu.be/qWKUFK7MWvg
-
 ## Setup
 
 ### Requirement
